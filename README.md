@@ -1,0 +1,2 @@
+# nlw12-backend
+## NPM RUN DEV TO RUN THE PROJECT
